@@ -1,0 +1,176 @@
+
+# ============================================================
+# Python
+# ============================================================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Type checking / linting
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Python package manager
+pip-wheel-metadata/
+poetry.toml
+
+# ============================================================
+# IDEs and editors
+# ============================================================
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+
+# ============================================================
+# Operating system
+# ============================================================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# ============================================================
+# LaTeX compilation artifacts
+# ============================================================
+
+# Auxiliary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+
+# Bibliography / indexing
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.idx
+*.ilg
+*.ind
+*.ist
+*.nlo
+*.nls
+*.xdy
+*.bib.bak
+
+# Build / intermediate files
+*.dvi
+*.xdv
+*.ps
+*.pdfsync
+*.4ct
+*.4tc
+*.idv
+*.lg
+*.tmp
+*.xref
+*.upa
+*.upb
+
+# Beamer / presentation artifacts
+*.nav
+*.snm
+*.vrb
+
+# LaTeX editor backups
+*.bak
+*.backup
+*.synctex(busy)
+
+# ============================================================
+# Project-specific
+# ============================================================
+
+# Temporary testing directory
+current_testing/
