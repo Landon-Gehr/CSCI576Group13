@@ -39,3 +39,13 @@ After creating the environment, activate it using the environment name specified
 ```bash
 conda activate neat-env
 ```
+
+## Updating the Environment
+
+If any new packages are added to the conda environment, update the environment.yaml file with:
+
+```bash
+conda env export --name neat-env --no-builds > environment.yaml
+```
+
+to pin the exact package version.
