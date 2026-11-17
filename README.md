@@ -1,4 +1,5 @@
 # CSCI576Group13
+
 CSCI 576 Deep Learning Fall 2026 Project
 
 # NEAT: NeuroEvolution of Augmenting Topologies
@@ -22,12 +23,12 @@ cd https://github.com/Landon-Gehr/CSCI576Group13.git
 
 ### 3. Create the Conda Environment
 
-The project includes an `environment.yml` file containing the dependencies required to run the project.
+The project includes an `environment.yaml` file containing the dependencies required to run the project.
 
 From the project root directory, create the environment with:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 ```
 
 This creates a Conda environment using the dependencies and environment name specified in `environment.yml`.
