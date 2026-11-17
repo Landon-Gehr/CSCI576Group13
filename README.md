@@ -18,7 +18,7 @@ If you do not already have Conda installed, install [Miniconda](https://docs.con
 
 ```bash
 git clone https://github.com/Landon-Gehr/CSCI576Group13.git
-cd https://github.com/Landon-Gehr/CSCI576Group13.git
+cd CSCI576Group13
 ```
 
 ### 3. Create the Conda Environment
