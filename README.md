@@ -50,3 +50,8 @@ conda env export --name neat-env --no-builds > environment.yaml
 ```
 
 to pin the exact package version.
+
+## Tests
+
+Run from the repository root with `python -m pytest tests`.
+Use `python -m pytest --collect-only tests` to inspect the cases.
